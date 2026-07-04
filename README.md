@@ -3,7 +3,7 @@
 ## 🚀 About Me
 I'm a passionate developer and tech enthusiast who loves building projects and learning new technologies.
 
-- 🌱 Currently learning **Web Development, DSA, and AI**
+- 🌱 Currently learning **android Development, DSA, and AI**
 - 💻 Interested in **Software Development & Open Source**
 - 🎯 Goal: Become a skilled **Software Engineer**
 - ⚡ Love solving problems and building real-world projects
@@ -14,7 +14,7 @@ I'm a passionate developer and tech enthusiast who loves building projects and l
 
 ### Languages
 ![C](https://img.shields.io/badge/C-blue?style=for-the-badge&logo=c)
-![C++](https://img.shields.io/badge/C++-blue?style=for-the-badge&logo=cplusplus)
+![java](https://img.shields.io/badge/C++-blue?style=for-the-badge&logo=cplusplus)
 ![Python](https://img.shields.io/badge/Python-yellow?style=for-the-badge&logo=python)
 ![JavaScript](https://img.shields.io/badge/JavaScript-black?style=for-the-badge&logo=javascript)
 
