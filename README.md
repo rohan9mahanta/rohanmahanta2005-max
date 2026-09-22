@@ -1,55 +1,91 @@
 # Hi there 👋, I'm Rohan Mahanta
 
-## 🚀 About Me
-I'm a passionate developer and tech enthusiast who loves building projects and learning new technologies.
+### ☕ Aspiring Java Full-Stack Developer | Java | Spring | DSA
 
-- 🌱 Currently learning **android Development, DSA, and AI**
-- 💻 Interested in **Software Development & Open Source**
-- 🎯 Goal: Become a skilled **Software Engineer**
-- ⚡ Love solving problems and building real-world projects
+---
+
+## 🚀 About Me
+
+I'm a passionate developer focused on building a strong foundation in
+**Java Full-Stack Development** and solving real-world problems through code.
+
+- ☕ Strong foundation in **Core Java**
+- 💻 Good knowledge of **C Programming**
+- 🌱 Currently learning **Spring & Spring Boot**
+- 🧠 Practicing **Data Structures & Algorithms**
+- 🌍 Interested in **Open Source & Collaborative Development**
+- 🛠️ Interested in building **real-world projects**
+- 🎯 Goal: Become a skilled **Java Full-Stack Developer**
+- ⚡ Always learning, building, and improving
+- 🛠️ Actively building my **Github & Development Portfolio**
 
 ---
 
 ## 🛠️ Tech Stack
 
-### Languages
-![C](https://img.shields.io/badge/C-blue?style=for-the-badge&logo=c)
-![java](https://img.shields.io/badge/C++-blue?style=for-the-badge&logo=cplusplus)
-![Python](https://img.shields.io/badge/Python-yellow?style=for-the-badge&logo=python)
-![JavaScript](https://img.shields.io/badge/JavaScript-black?style=for-the-badge&logo=javascript)
+### 💻 Languages
 
-### Web Development
-![HTML](https://img.shields.io/badge/HTML-orange?style=for-the-badge&logo=html5)
-![CSS](https://img.shields.io/badge/CSS-blue?style=for-the-badge&logo=css3)
-![React](https://img.shields.io/badge/React-black?style=for-the-badge&logo=react)
-![Node.js](https://img.shields.io/badge/Node.js-green?style=for-the-badge&logo=node.js)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
+![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
 
----
+### 🌱 Currently Learning
 
-## 📈 GitHub Stats
+![Spring](https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=spring&logoColor=white)
+![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white)
 
-![Rohan's GitHub stats](https://github-readme-stats.vercel.app/api?username=rohanmahanta2005-max&show_icons=true&theme=radical)
+### 🧠 Core Concepts
 
----
+![OOP](https://img.shields.io/badge/OOP-007396?style=for-the-badge)
+![DSA](https://img.shields.io/badge/DSA-FF6F00?style=for-the-badge)
+![Problem Solving](https://img.shields.io/badge/Problem_Solving-8A2BE2?style=for-the-badge)
 
-## 🔥 Most Used Languages
+### 🔧 Tools
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=rohanmahanta2005-max&layout=compact&theme=radical)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
+![IntelliJ IDEA](https://img.shields.io/badge/IntelliJ_IDEA-000000?style=for-the-badge&logo=intellijidea&logoColor=white)
 
 ---
 
-## 📌 Current Focus
-- 🚀 Building projects
-- 📚 Learning DSA
-- 🌐 Improving full-stack development skills
-- 🤝 Exploring open source contributions
+## 📚 Currently Learning
 
----
+```text
+Core Java
+    ↓
+Object-Oriented Programming
+    ↓
+Data Structures & Algorithms
+    ↓
+Spring Framework
+    ↓
+Spring Boot
+    ↓
+REST APIs
+    ↓
+Databases
+    ↓
+Java Full-Stack Development
+🚀 What I'm Working On
+☕ Improving my Java development skills
+🧠 Solving DSA problems regularly
+🌱 Learning Spring & Spring Boot
+🔨 Building real-world projects
+🌍 Exploring Open Source
+📚 Continuously improving my software development fundamentals
+🎯 My Goals
+✅ Master Core Java
+🔄 Become strong in DSA & Problem Solving
+🔄 Learn Spring & Spring Boot
+⏳ Build REST APIs
+⏳ Learn SQL & Database Management
+⏳ Build real-world full-stack applications
+🎯 Contribute to Open Source
+🚀 Become a job-ready Java Full-Stack Developer
+📊 GitHub Stats
 
-## 📫 Connect With Me
-- GitHub: https://github.com/rohanmahanta2005-max
+🔥 GitHub Streak
 
----
-
-## ⚡ Fun Fact
-> “Code, Learn, Build, Repeat.” 🚀
+📫 Connect With Me
+💼 LinkedIn: www.linkedin.com/in/rohan-mahanta-140946380
+🐙 GitHub: @rohanmahanta2005-max
+📧 Email: rohanmahanta2005@gmail.com
